@@ -142,18 +142,18 @@ def create_features_list(im,mask):
     #color intensity of lesion area
     colors_of_lesion = masked_im[mask==1]
     x_R, x_G, x_B = np.mean(colors_of_lesion, axis = 0)
-    avg_color = (x_R + x_G + x_B)/3
+    avg_intensity = (x_R + x_G + x_B)/3
     
-    features = [compactness,asymmetry,avg_color]
+    features = [compactness,asymmetry,avg_intensity]
     return features
     
 def normalize_features(features):
     #The values below are the maximum from the ISIC_2017 database
     compactness_max = 13524303.661695108
     asymmetry_max = 0.6949959819161972
-    average_color_max = 241.51572327044025
+    average_intensity_max = 241.51572327044025
     
-    return [features[0]/compactness_max,features[1]/asymmetry_max,features[2]/average_color_max]
+    return [features[0]/compactness_max,features[1]/asymmetry_max,features[2]/average_intensity_max]
 
 
 
@@ -169,8 +169,8 @@ def main():
     seg = resize(seg, (768, 1024),anti_aliasing=True)
 
     mask = create_custom_mask(im,seg)
-    features = create_features_list(im,mask)
 
+    features = create_features_list(im,mask)
     norm_features = normalize_features(features) #normalize features
 
     knn_model = joblib.load("knn_trained.joblib")
