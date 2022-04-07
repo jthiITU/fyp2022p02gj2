@@ -1,0 +1,344 @@
+commit 7e6a61f7fed3594fe424a076a92824e819e9b2be
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Apr 7 15:56:16 2022 +0200
+
+    zipped zip
+
+commit d02d3bb6a6930f51c7da5117f5856075b31d007f
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Apr 7 15:40:55 2022 +0200
+
+    Update Graphs and shit.ipynb
+
+commit a9fc95e12d54f975fde551915c9c07a8f3594696
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Apr 7 12:46:48 2022 +0200
+
+    Graph notebook in progress
+
+commit aeb12fc774e923dbf5dd030c73f5becc7237a89b
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Wed Apr 6 22:52:48 2022 +0200
+
+    finalized python prediction program
+
+commit f8d24180b9cc866de6656e081cfa3529219ac334
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Wed Apr 6 18:39:43 2022 +0200
+
+    Finished and outputed ML models
+
+commit fd2e87cd2041b41532d2a42cd54eb8a364858aa7
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Wed Apr 6 14:33:44 2022 +0200
+
+    Machine lerning stuff
+
+commit 68fed2043f58596b5fb239a97b18821c9392ed4e
+Author: srde <srde@itu.dk>
+Date:   Wed Apr 6 14:23:26 2022 +0200
+
+    evaluating features for melanoma and non melanoma cases individually
+
+commit 7ed2f3efe847c59db9b562d62f5c235dd49b6187
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Apr 5 19:02:54 2022 +0200
+
+    Features created for 2000 images database
+
+commit 1b58c71cbac663c308b2a985a550020948177b5e
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Apr 5 12:40:33 2022 +0200
+
+    changed some stuff
+
+commit 4138cbd66a2b04a084a9f279013dc6411209ab80
+Author: srde <srde@itu.dk>
+Date:   Mon Apr 4 22:14:43 2022 +0200
+
+    comparing newfound perimeter and area with already provided ones
+
+commit 80eb3f31e9102bcc4cec02ef1772e2f53af06e0f
+Author: srde <srde@itu.dk>
+Date:   Mon Apr 4 21:52:14 2022 +0200
+
+    evaluating features
+
+commit 14dbb7432522e17c7f29c58e34b95838589def11
+Author: Alfo <alfo@itu.dk>
+Date:   Mon Apr 4 16:55:30 2022 +0200
+
+    made
+    knn classifier
+
+commit dc7a440f5022ccb4283a9235b1e63dcfa3ac67fd
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 14:34:56 2022 +0200
+
+    Update Measuring features.ipynb
+
+commit 683cd0c1dd8bb262e75dc0b6c186c24733026ba8
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 14:15:48 2022 +0200
+
+    normalized features
+
+commit b37b3b8a84c75591fd88b833dd578043abe3b044
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 13:49:06 2022 +0200
+
+    normalized features
+
+commit 62c38fb75f54afdf10b91d0740140e1396177c9c
+Merge: 655a4a5 6cb1fee
+Author: srde <srde@itu.dk>
+Date:   Mon Apr 4 13:21:48 2022 +0200
+
+    Merge branch 'main' of https://github.com/jthiITU/fyp2022p02gj2
+
+commit 655a4a50e1a88a4a1ee0e826cf59197b9f4293a6
+Author: srde <srde@itu.dk>
+Date:   Mon Apr 4 13:18:35 2022 +0200
+
+    updating features data frame
+
+commit 6cb1fee5610bd4313d352e02ff9e3f3dc13e0221
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 12:58:01 2022 +0200
+
+    Update Measuring features.ipynb
+
+commit b740cb3416e48590afd6fa49c0234908c946f1b0
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 12:53:43 2022 +0200
+
+    started machine learning
+
+commit d65ea91716cc5dac38abbb97e68dba0ef12f3406
+Author: srde <srde@itu.dk>
+Date:   Mon Apr 4 12:51:54 2022 +0200
+
+    adding asymmetry measure
+
+commit 3e2ef31c0b9334c5d920496b5b0ac6c323e04471
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 11:17:30 2022 +0200
+
+    Update Rezise_and_mask.ipynb
+
+commit a934fe866b53c753c683072b2f1b30b20b4b0d8f
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Mon Apr 4 10:54:40 2022 +0200
+
+    Changed masks algorithm
+
+commit 5d282459392b24c44abac7cbf0bdb32465b24ae9
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 31 15:56:24 2022 +0200
+
+    Update Measuring features.ipynb
+
+commit 47ee532564b5e73444ef275d8bc1890519d2f341
+Merge: 2cd02bf 2fe5648
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 15:26:32 2022 +0200
+
+    Merge branch 'main' of https://github.com/jthiITU/fyp2022p02gj2
+
+commit 2cd02bf30c6aa7acea13e556464290f3bcb03c2d
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 15:26:26 2022 +0200
+
+    measuring features for all images
+
+commit 2fe5648685073a49a36a1802939b6a7fde8e03be
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 31 13:48:45 2022 +0200
+
+    Update Rezise_and_mask.ipynb
+
+commit 6751892f0ab9fa2797a8db661f8b248e65c58d33
+Merge: 59dca0f e545676
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 13:20:59 2022 +0200
+
+    Merge branch 'main' of https://github.com/jthiITU/fyp2022p02gj2
+
+commit 59dca0f9e89f63cf22bf7acfc33fd018b01a82cb
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 13:20:55 2022 +0200
+
+    updates to measuring features
+
+commit e54567651e5cde6a8af3706d8ae31701b52e7a2c
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 31 12:41:54 2022 +0200
+
+    removed extra images
+
+commit 172d1461e2abf4976d75beb86cb43769c297941e
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 12:34:55 2022 +0200
+
+    semi-final version of measuring features
+
+commit 18542768c501450bee500e5e5cac3b546b1b2807
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 31 12:33:43 2022 +0200
+
+    Cleaning up notebooks
+
+commit 1d085124b759326b5f52350e84991f2610cb22ef
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 31 12:09:54 2022 +0200
+
+    Created custom masks
+
+commit b30a2d2e62568f3dfd3f9b7c6ad13d659e6f0f3d
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 31 11:27:28 2022 +0200
+
+    measuring features of an example image in copy 2
+
+commit 02af7d5b181127b108094e195b979cf0aef81cb8
+Author: Alfo <alfo@itu.dk>
+Date:   Tue Mar 29 12:45:14 2022 +0200
+
+    rated moles, for real
+
+commit 883abfcd73b38b2e273993d3490f81dad5ed5d51
+Author: Alfo <alfo@itu.dk>
+Date:   Tue Mar 29 12:41:59 2022 +0200
+
+    rated moles
+
+commit ba939cf4543e40294bc0cce358298e7421e59b18
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Mar 29 11:45:06 2022 +0200
+
+    Update Masks and stuff-Copy1.ipynb
+
+commit cd9ff3540d135ea5dba81787674be9ac2002c13c
+Author: srde <srde@itu.dk>
+Date:   Tue Mar 29 10:12:14 2022 +0200
+
+    changes to copy
+
+commit d60c96aa225b54287600ec41d0aba7fea87b3157
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 24 23:15:33 2022 +0100
+
+    making a copy of code file
+    
+    - removing error during resizing of segments
+    - plotting RGB values to determine quantile
+
+commit 2af1b349ed716596fa805e05634c504a2b1f8ae9
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 24 19:42:14 2022 +0100
+
+    updating ratings
+
+commit 51cf32e946c65da62c3c6d0743e5f7bb139f05ef
+Author: kaejitu <kaej@itu.dk>
+Date:   Thu Mar 24 13:58:55 2022 +0100
+
+    Updated ratings
+
+commit aaa37b79c5971297017802c6733479da3bb4dcc3
+Merge: 8ec5878 18e4f85
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 24 13:36:32 2022 +0100
+
+    Merge branch 'main' of https://github.com/jthiITU/fyp2022p02gj2
+
+commit 8ec5878d125ab164d42e7017ee14d8d3a52418dc
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 24 13:36:28 2022 +0100
+
+    masks and stuff
+
+commit 18e4f851957020593ede99d5f5b83e92304b94cc
+Author: jmaziarz13 <101800554+jmaziarz13@users.noreply.github.com>
+Date:   Thu Mar 24 13:11:43 2022 +0100
+
+    ratings
+
+commit 43ba77c7ca31f738e061f7902dfbd9ddb029317b
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 24 12:49:14 2022 +0100
+
+    entering ratings
+
+commit afc60609735a837df1367a63b4ea1379a6a82aba
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 24 12:48:00 2022 +0100
+
+    updating task 1
+
+commit b9fdefae08b6b136415e2cb157a15a5214fc2bc9
+Merge: 0ba4618 d6f8f92
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 24 12:23:29 2022 +0100
+
+    Merge branch 'main' of https://github.com/jthiITU/fyp2022p02gj2
+
+commit 0ba4618a499153d7f8fc8328ac4acb0f29126938
+Author: srde <srde@itu.dk>
+Date:   Thu Mar 24 12:23:23 2022 +0100
+
+    creating task 1
+
+commit d6f8f9277d450c92e9ce9dac90e1bafaaf55a3c6
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 24 10:48:56 2022 +0100
+
+    cropped all image
+
+commit f9d5d5cbf070863f95c0ec49f3e21b877d0a2762
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 24 10:01:37 2022 +0100
+
+    Update Masks and stuff.ipynb
+
+commit f161b0961c825d70f7df984bd0177d437eb20633
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Mar 22 13:50:37 2022 +0100
+
+    local notebook cuz screw deepnote
+
+commit ed5f155480e790aeef93b0ea0da1e3b78f9035a1
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Mar 22 13:31:23 2022 +0100
+
+    Deepnote sucks
+
+commit 741eeead5a97ad45cfcd8fce5de04c6ee154d4e7
+Author: jthiITU <jthi@itu.dk>
+Date:   Tue Mar 22 12:21:28 2022 +0000
+
+    resizing images
+
+commit 6f2c3c57dbb44a04cb971a713a55a1458620280d
+Author: jthiITU <jthi@itu.dk>
+Date:   Tue Mar 22 11:45:39 2022 +0000
+
+    check
+
+commit a5837cbcfe87202d2354d4d567775d0b064df127
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Tue Mar 22 12:27:37 2022 +0100
+
+    changed data folder structure
+
+commit 910c42242d51243069ed8e8681c2f80689f14e0f
+Author: Jakotibodos <70334746+Jakotibodos@users.noreply.github.com>
+Date:   Thu Mar 17 11:04:15 2022 +0100
+
+    Copied provided data and code
+
+commit 434923691a9326dd2a930c7cade9312d5137cfc7
+Author: jthiITU <98815235+jthiITU@users.noreply.github.com>
+Date:   Thu Mar 17 10:55:27 2022 +0100
+
+    Initial commit
